@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <!-- Default screen margins, per the Android Design guidelines. -->
+  <dimen name="activity_horizontal_margin">16dp</dimen>
+  <dimen name="activity_vertical_margin">16dp</dimen>
+  <dimen name="fab_circle_size">56dp</dimen>
+  <dimen name="progress_circle_size">24dp</dimen>
+  <dimen name="progress_line_size">2.5dp</dimen>
+  <dimen name="circle_progress_padding">6dp</dimen>
+  <dimen name="plan_detail_cell_min_height">58dp</dimen>
+
+  <!-- set to this elevation to be on top of other views with elevation -->
+
+  <!-- Team screen-->
+  <dimen name="grid_insets">2dp</dimen>
+  <dimen name="image_video_preview_max_height">200dp</dimen>
+
+  <dimen name="server_message_corner_radius">5dp</dimen>
+
+  <dimen name="chart_height">80dp</dimen>
+  <dimen name="chart_circle_diameter">4dp</dimen>
+  <dimen name="chart_line_width">1.5dp</dimen>
+  <dimen name="chart_vertical_offset">10dp</dimen>
+  <dimen name="chart_horizontal_offset">10dp</dimen>
+  <dimen name="peer_profile_chart_horizontal_margin">16dp</dimen>
+  <dimen name="peer_profile_chart_vertical_margin">16dp</dimen>
+  <dimen name="circular_view_text_size">15sp</dimen>
+  <dimen name="welcome_animation_title_text_size">28sp</dimen>
+  <dimen name="peer_groups_image_size">75dp</dimen>
+
+  <!-- NavigationView Overrides -->
+  <dimen name="design_navigation_separator_vertical_padding" tools:override="true">0dp</dimen>
+
+  <!--Need to be fixed to avoid scaling due to device settings-->
+  <dimen name="group_chat_header_text_size">18dp</dimen>
+
+  <dimen name="pie_chart_text_size">16dp</dimen>
+
+</resources>
