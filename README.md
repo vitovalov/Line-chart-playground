@@ -1,3 +1,3 @@
 # Line-chart-playground
 
-![Preview](Preview.gif)
+![Preview](Preview.png)
